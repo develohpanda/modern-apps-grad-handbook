@@ -45,6 +45,8 @@ This list includes many of the tools and technologies used by the Modern Applica
 * [Git Tutorial by Github](https://try.github.io)
 * [Learn Git Branching](http://learngitbranching.js.org/)
 
+There are a number of different workflows you can adopt with git, we use one called [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
 ### Server
 
 ### Client
